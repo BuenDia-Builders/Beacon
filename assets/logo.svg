@@ -1,0 +1,19 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Beacon logo: a lighthouse with a radiating light">
+  <polygon points="100,55 190,2 190,42" fill="#f59e0b" fill-opacity="0.35"/>
+  <polygon points="100,55 10,2 10,42" fill="#f59e0b" fill-opacity="0.35"/>
+  <polygon points="100,55 150,18 150,46" fill="#f59e0b" fill-opacity="0.5"/>
+  <polygon points="100,55 50,18 50,46" fill="#f59e0b" fill-opacity="0.5"/>
+
+  <rect x="55" y="170" width="90" height="14" rx="2" fill="#1e293b"/>
+
+  <polygon points="85,70 115,70 128,165 72,165" fill="#1e293b"/>
+
+  <polygon points="78.85,113 121.15,113 123.4,129 76.6,129" fill="#f59e0b"/>
+
+  <rect x="82" y="50" width="36" height="20" fill="#334155"/>
+
+  <polygon points="82,50 118,50 100,28" fill="#0f172a"/>
+
+  <circle cx="100" cy="60" r="10" fill="#f59e0b" fill-opacity="0.35"/>
+  <circle cx="100" cy="60" r="7" fill="#fde68a"/>
+</svg>
