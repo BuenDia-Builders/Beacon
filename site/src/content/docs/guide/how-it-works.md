@@ -37,7 +37,7 @@ signal being strong is evidence enough; averaging them would punish a memo
 for only triggering one of the two.
 
 This also means the one place the score can go wrong — [two different
-numeric IDs with a long shared digit run](/beacon/guide/limitations/) —
+numeric IDs with a long shared digit run](/Beacon/guide/limitations/) —
 isn't a blending bug so much as both signals pointing the same (wrong) way
 at once. That's a property of the inputs, not something a different
 combination formula fixes.

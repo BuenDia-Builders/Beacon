@@ -21,7 +21,7 @@ match("4891023847562910384", ["4891023847562910385"]);
 payments. Exact match — what Anchor Platform already does — is the correct,
 safe behavior for a random numeric ID. Beacon exists for the other case: a
 human- or bank-relayed *text* reference, where a typo is the real failure
-mode. See [Why](/beacon/why/) for the validated use case.
+mode. See [Why](/Beacon/why/) for the validated use case.
 
 </Aside>
 

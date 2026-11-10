@@ -3,7 +3,7 @@ import starlight from "@astrojs/starlight";
 
 export default defineConfig({
   site: "https://BuenDia-Builders.github.io",
-  base: "/beacon",
+  base: "/Beacon",
   integrations: [
     starlight({
       title: "Beacon",
@@ -13,7 +13,7 @@ export default defineConfig({
         replacesTitle: false,
       },
       social: [
-        { icon: "github", label: "GitHub", href: "https://github.com/BuenDia-Builders/beacon" },
+        { icon: "github", label: "GitHub", href: "https://github.com/BuenDia-Builders/Beacon" },
       ],
       sidebar: [
         {

@@ -43,7 +43,7 @@ piece of this, instead of writing it again.
   exact-match-only pattern — and surfaces a real danger: its default memo
   scheme is a random numeric ID, not human-typed text, and Beacon
   conflates two different numeric IDs that happen to share most digits.
-  See [Limitations](/beacon/guide/limitations/).
+  See [Limitations](/Beacon/guide/limitations/).
 
 That last result sets the actual scope: Beacon is for a custom or
 bank/exchange-relayed *text* reference a human can mistype — not a

@@ -29,7 +29,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BuenDia-Builders/beacon"
+    "url": "https://github.com/BuenDia-Builders/Beacon"
   },
   "devDependencies": {
     "typescript": "^5.6.0",

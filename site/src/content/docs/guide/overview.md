@@ -26,6 +26,6 @@ score how similar each candidate is. What you do with that ranking —
 auto-confirm, flag for review, combine with an amount/sender check — is up
 to the integration.
 
-See [How it works](/beacon/guide/how-it-works/) for the scoring itself, and
-[Limitations](/beacon/guide/limitations/) for where it should **not** be
+See [How it works](/Beacon/guide/how-it-works/) for the scoring itself, and
+[Limitations](/Beacon/guide/limitations/) for where it should **not** be
 used.

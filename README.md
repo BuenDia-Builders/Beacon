@@ -5,11 +5,11 @@
 <h1 align="center">Beacon</h1>
 
 <p align="center">
-  <img src="https://github.com/BuenDia-Builders/beacon/actions/workflows/ci.yml/badge.svg" alt="CI">
+  <img src="https://github.com/BuenDia-Builders/Beacon/actions/workflows/ci.yml/badge.svg" alt="CI">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
 </p>
 
-<p align="center"><strong>Docs: <a href="https://buendia-builders.github.io/beacon/">BuenDia-Builders.github.io/beacon</a></strong></p>
+<p align="center"><strong>Docs: <a href="https://buendia-builders.github.io/Beacon/">BuenDia-Builders.github.io/Beacon</a></strong></p>
 
 Fuzzy matching for Stellar payment memos and references. No server, no
 runtime dependencies, no ledger access — just a scoring function.

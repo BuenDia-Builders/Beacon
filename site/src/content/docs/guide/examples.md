@@ -3,7 +3,7 @@ title: Examples
 description: Runnable, validated real-world scenarios.
 ---
 
-These live in [`examples/`](https://github.com/BuenDia-Builders/beacon/tree/main/examples)
+These live in [`examples/`](https://github.com/BuenDia-Builders/Beacon/tree/main/examples)
 in the repo — clone it and run them, no extra setup beyond `npm install &&
 npm run build`.
 
@@ -46,4 +46,4 @@ node examples/dont-use-for-numeric-ids.mjs
 ```
 
 Two different, unrelated auto-generated numeric memo IDs score as a
-confident match — see [Limitations](/beacon/guide/limitations/) for why.
+confident match — see [Limitations](/Beacon/guide/limitations/) for why.

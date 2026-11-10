@@ -54,6 +54,6 @@ function reconcile(incomingMemo, pendingPayments) {
 }
 ```
 
-Next: [How it works](/beacon/guide/how-it-works/) explains the scoring, and
-[Limitations](/beacon/guide/limitations/) covers what this loop should check
+Next: [How it works](/Beacon/guide/how-it-works/) explains the scoring, and
+[Limitations](/Beacon/guide/limitations/) covers what this loop should check
 before trusting `best` on its own.
