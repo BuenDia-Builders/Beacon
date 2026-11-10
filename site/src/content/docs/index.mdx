@@ -1,0 +1,40 @@
+---
+title: Beacon
+description: Fuzzy matching for Stellar payment memos and references.
+template: splash
+hero:
+  tagline: Does this incoming memo match what we expected, even with a typo? Beacon answers that — in-memory, zero dependencies, no server.
+  actions:
+    - text: Get started
+      link: /beacon/guide/getting-started/
+      icon: right-arrow
+      variant: primary
+    - text: View on GitHub
+      link: https://github.com/BuenDia-Builders/beacon
+      icon: external
+---
+
+import { Card, CardGrid } from "@astrojs/starlight/components";
+
+**v0.1 — MVP.** The core matcher works end to end today: 9 passing tests,
+zero runtime dependencies, validated against two real Stellar anchor
+codebases (not synthetic examples — see [Why](/beacon/why/)).
+
+<CardGrid>
+	<Card title="No server" icon="rocket">
+		`npm install @buendia-builders/beacon`, then call `match()`. No index to
+		build, no process to run.
+	</Card>
+	<Card title="Zero dependencies" icon="seti:lock">
+		Levenshtein distance and token overlap are ~90 lines of plain TypeScript.
+		Nothing to audit in `node_modules`.
+	</Card>
+	<Card title="Typo-tolerant" icon="magnifier">
+		Catches reordered words, extra context, and a typo inside a reference
+		code — the memo problem anchors keep re-solving from scratch.
+	</Card>
+	<Card title="Honestly scoped" icon="warning">
+		Read [Limitations](/beacon/guide/limitations/) before using this for real
+		money — it is not safe for every memo shape.
+	</Card>
+</CardGrid>
